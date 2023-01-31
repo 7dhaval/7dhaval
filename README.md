@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14354
-Fork on GitHub
-3816
 
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Dhavalsinh Sonasaniya</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
